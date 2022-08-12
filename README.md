@@ -24,7 +24,7 @@ Communication via Slack
 
 [Statement of Work(Draft only)](https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/336deddfee922f43e4627564159797c8a2b237e3/document/SOW(draft).md)
 
-Client Analysis
+[Client Analysis](https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/4c5886dbc26ce1c2b84bf052060e6bd0a347f11d/document)
 
 ### Audit
 Audit 1 Slides
