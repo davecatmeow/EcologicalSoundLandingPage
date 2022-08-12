@@ -27,7 +27,7 @@ Communication via Slack
 [Client Analysis](https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/4c5886dbc26ce1c2b84bf052060e6bd0a347f11d/document)
 
 ### Audit
-Audit 1 Slides
+Audit 1 [Slides](https://docs.google.com/presentation/d/1Z_ekkf_tDXNAgifQuVTSU8A2ZC3ikq0M/edit?usp=sharing&ouid=114992695747060651714&rtpof=true&sd=true)
 
 
 ### Notes
