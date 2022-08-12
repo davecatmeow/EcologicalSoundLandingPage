@@ -22,7 +22,7 @@ Communication via Slack
 
 [SmartSheet workplace](https://app.smartsheet.com/sheets/FqcXxcrwChx25xmwQ6rcxMF3r5342XJ7r9J43931) (Currently in developing, donot have public access)
 
-[Statement of Work(Draft only)](document/SOW(draft).md)
+[Statement of Work(Draft only)](https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/336deddfee922f43e4627564159797c8a2b237e3/document/SOW(draft).md)
 
 Client Analysis
 
