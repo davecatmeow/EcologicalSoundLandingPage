@@ -16,13 +16,13 @@ Yuzhen Qi - u7394366
 [diversityarrays.com](https://www.diversityarrays.com/)
 
 ### Project management
-[Techlauncher project management](https://github.com/users/davecatmeow/projects/1/views/1)
+[github Project](https://github.com/users/davecatmeow/projects/1/views/1) for Techlauncher project management
 
 Communication via Slack
 
-[SmartSheet workplace](https://app.smartsheet.com/sheets/FqcXxcrwChx25xmwQ6rcxMF3r5342XJ7r9J43931) (Currently in developing)
+[SmartSheet workplace](https://app.smartsheet.com/sheets/FqcXxcrwChx25xmwQ6rcxMF3r5342XJ7r9J43931) (Currently in developing, donot have public access)
 
-Statement of Work(Draft only)
+[Statement of Work(Draft only)](https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/main/document/SOW(draft).md)
 
 Client Analysis
 
@@ -31,4 +31,5 @@ Audit 1 Slides
 
 
 ### Notes
-Client meeting record
+#### Client meeting record
+[Meeting 1(1st Aug)](https://anu365-my.sharepoint.com/:f:/g/personal/u7371990_anu_edu_au/EvFmVoFq5IZJpYjAeo2vZbkB7txth0aPsnJNH4u2vi9kEA?e=Dibotd)
