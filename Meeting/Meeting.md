@@ -10,6 +10,7 @@
 **Absent:** None
 <br>
 **Record in the meeting:** 
+
 ![Meeting_two_1](PIC/Meeting2/1.png)
 
 **Lead/scribe:** Wait for fill
@@ -19,6 +20,7 @@
 **Absent:** None
 <br>
 **Record in the meeting:** 
+
 ![Meeting_three_1](PIC/Meeting3/1.png)
 
 **Task After Meeting:** 
