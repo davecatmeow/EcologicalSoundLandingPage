@@ -11,7 +11,7 @@
 <br>
 **Record in the meeting:** 
 
-![Meeting_two_1](PIC/Meeting2/1.png)
+![Meeting_two_1](PIC/Meeting2/0815.png)
 
 **Lead/scribe:** Wait for fill
 
