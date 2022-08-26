@@ -34,4 +34,4 @@ Audit 1 [Slides](https://docs.google.com/presentation/d/1Z_ekkf_tDXNAgifQuVTSU8A
 
 ### Notes
 #### Client meeting record
-[Meeting 1(1st Aug)](https://anu365-my.sharepoint.com/:f:/g/personal/u7371990_anu_edu_au/EvFmVoFq5IZJpYjAeo2vZbkB7txth0aPsnJNH4u2vi9kEA?e=Dibotd)
+[Meeting](https://anu365-my.sharepoint.com/:f:/g/personal/u7371990_anu_edu_au/EvFmVoFq5IZJpYjAeo2vZbkB7txth0aPsnJNH4u2vi9kEA?e=Dibotd)
