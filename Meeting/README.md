@@ -1,4 +1,4 @@
-# Group Group Group
+# Echological Sounds
 
 ## Team Meeting 1 - Week 1 - 8.1 15:00 - 8.1 16:00 (start-end time)
 **Absent:** None
