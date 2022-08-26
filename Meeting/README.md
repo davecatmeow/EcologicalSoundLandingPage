@@ -36,10 +36,11 @@
 1. Discuss the previous topic about ledger, DLT, Decentralized and so on.
 2. Discuss how the profile should be implemented in the blockchain.
 3. Client introduce how seed gene profile relate to smart contract. 
+4. 
 
 **Task After Meeting:** 
-1. Each person continuing find an open source blockchain platform and try to find difference between each other. Make a sheet to compare. 
-
+1. Each person continuing find an open source blockchain platform and try to find difference between each other. Make a sheet to compare. Before Wednesday.
+2. Next week should have a coding task about to implement an open-source blockchain demo.
 
 ## Membership
 | Name              |      UID |                               
