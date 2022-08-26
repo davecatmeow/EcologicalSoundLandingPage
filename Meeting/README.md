@@ -3,7 +3,9 @@
 ## Team Meeting 1 - Week 1 - 8.1 15:00 - 8.1 16:00 (start-end time)
 **Absent:** None
 <br>
-**Lead/scribe:** Introduce the project.
+**Record in the meeting:** 
+1. Introduce the project.
+2. How the project relate to the organization like Africa farm.
 
 
 ## Team Meeting 2 - Week 4 - 8.15 16:00 - 8.15 16:40 (start-end time)
@@ -13,7 +15,6 @@
 
 ![Meeting_two_1](PIC/Meeting2/0815.png)
 
-**Lead/scribe:** Wait for fill
 
 
 ## Team Meeting 3 - Week 4 - 8.16 14:00 - 8.16 15:00 (start-end time)
@@ -28,6 +29,16 @@
 2. Understand the progression from Web 1.0, Web 2.0, to Web 3.0
 3. Understand - Decentralisation, Immutable, Smart Contract, Ledger, DLT as a start
 
+## Team Meeting 3 - Week 5 - 8.22 15:00 - 8.22 16:00 (start-end time)
+**Absent:** None
+<br>
+**Record in the meeting:** 
+1. Discuss the previous topic about ledger, DLT, Decentralized and so on.
+2. Discuss how the profile should be implemented in the blockchain.
+3. Client introduce how seed gene profile relate to smart contract. 
+
+**Task After Meeting:** 
+1. Each person continuing find an open source blockchain platform and try to find difference between each other. Make a sheet to compare. 
 
 
 ## Membership
