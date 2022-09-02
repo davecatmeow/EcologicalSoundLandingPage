@@ -50,8 +50,7 @@
 | Yuzhen Qi         | u7394366 |             
 
 ## Team Meeting 5 - Week 6 - 8.29 15:30 - 8.22 16:00 (start-end time)
-<br>
-**Record in the meeting:** 
+**Record in the meeting:**
 That`s meeting is like a chat and dicuss and all the record was in slack.
 
 **Task After Meeting:** 
