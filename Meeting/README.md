@@ -55,4 +55,5 @@
 That`s meeting is like a chat and dicuss and all the record was in slack.
 
 **Task After Meeting:** 
-Please see the task in onenote.
+Please see the detailed task in onenote.
+![Meeting_three_1](PIC/Meeting5/1.png)
