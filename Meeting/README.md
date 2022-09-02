@@ -57,3 +57,8 @@ That`s meeting is like a chat and dicuss and all the record was in slack.
 **Task After Meeting:** 
 Please see the detailed task in onenote.
 ![Meeting_three_1](PIC/Meeting5/1.png)
+
+To be short:
+- Research business models for our blockchains models, about What we can offer our stakeholders and what they may offer.
+- Research technical possibilities, like model security considerations, model capacity, efficiences, workload for future development.
+- Make a plan about future works during the teaching break.
