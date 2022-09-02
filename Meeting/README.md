@@ -29,7 +29,7 @@
 2. Understand the progression from Web 1.0, Web 2.0, to Web 3.0
 3. Understand - Decentralisation, Immutable, Smart Contract, Ledger, DLT as a start
 
-## Team Meeting 3 - Week 5 - 8.22 15:00 - 8.22 16:00 (start-end time)
+## Team Meeting 4 - Week 5 - 8.22 15:00 - 8.22 16:00 (start-end time)
 **Absent:** None
 <br>
 **Record in the meeting:** 
@@ -48,3 +48,11 @@
 | Yuxiao Liu        | u7371990 |                
 | Ran Zhang         | u6760490 |         
 | Yuzhen Qi         | u7394366 |             
+
+## Team Meeting 5 - Week 6 - 8.29 15:30 - 8.22 16:00 (start-end time)
+<br>
+**Record in the meeting:** 
+That`s meeting is like a chat and dicuss and all the record was in slack.
+
+**Task After Meeting:** 
+Please see the task in onenote.
