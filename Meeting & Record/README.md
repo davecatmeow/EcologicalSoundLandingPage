@@ -63,5 +63,25 @@ To be short:
 - Make a plan about future works during the teaching break.
 
 
+# Part of Team chating Through Wechat 
+
+## Team Chating - Week 5
+**Record:**
+![Chat_1](PIC/Chat1/3.jpg)
+
+## Team Chating - Week 6
+**Record:**
+![Chat_1](PIC/Chat1/2.jpg)
+
+
+
 ## Team Chating - Week 7
 **Record:**
+![Chat_1](PIC/Chat1/1.jpg)
+
+**Task:**
+Ran: Find hyperledger fabric data structure and profile.
+Gefei: Try to build our own profile and data structure based on hyperledger fabric.
+Yuxiao: Working on the record, assigning work and reflection.
+Yuzhen: Rough system structure for the whole blockchain system.
+
