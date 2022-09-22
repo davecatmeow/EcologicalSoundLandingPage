@@ -53,3 +53,5 @@ tips: This record contains both our group`s meeting with client, task assignment
 [Note](https://anu365-my.sharepoint.com/:o:/g/personal/u7371990_anu_edu_au/EpSN3CQQiqRPg9kPHYw-NzwBQOyeYSXEoXH5J9LJcwX8TA?e=TJZqj8)
 #### Reflection 
 [Reflection] (https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/main/Reflection.docx)
+#### Part of Slack Record and Email Record with Client
+https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/main/Meeting%20%26%20Record/Contact%20Record.docx
