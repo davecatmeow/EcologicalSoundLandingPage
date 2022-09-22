@@ -61,3 +61,7 @@ To be short:
 - Research business models for our blockchains models, about What we can offer our stakeholders and what they may offer.
 - Research technical possibilities, like model security considerations, model capacity, efficiences, workload for future development.
 - Make a plan about future works during the teaching break.
+
+
+## Team Chating - Week 7
+**Record:**
