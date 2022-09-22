@@ -48,5 +48,8 @@ Audit 2 [Slides](https://docs.google.com/presentation/d/1uhxRaC8fLimlDYW7-8MKwJJ
 #### Client meeting record
 [Meeting Record](https://anu365-my.sharepoint.com/:f:/g/personal/u7371990_anu_edu_au/EvFmVoFq5IZJpYjAeo2vZbkB7txth0aPsnJNH4u2vi9kEA?e=Dibotd)
 [Meeting Note](https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/main/Meeting/README.md)
+tips: This record contains both our group`s meeting with client, task assignment and teamwork chatting.
 #### Meeting notes and chat notes
 [Note](https://anu365-my.sharepoint.com/:o:/g/personal/u7371990_anu_edu_au/EpSN3CQQiqRPg9kPHYw-NzwBQOyeYSXEoXH5J9LJcwX8TA?e=TJZqj8)
+#### Reflection 
+[Reflection] https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/main/Reflection.docx
