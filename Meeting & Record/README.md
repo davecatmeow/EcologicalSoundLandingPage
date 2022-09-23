@@ -73,11 +73,15 @@ To be short:
 **Record:**
 ![Chat_1](PIC/Chat1/2.jpg)
 
-
+**Decision Making:**
+First, we discuss the information about project in the meeting and team leader assign the work to the actual people.
 
 ## Team Chating - Week 7
 **Record:**
 ![Chat_1](PIC/Chat1/1.jpg)
+
+**Decision Making:**
+Team leader infer some of the task that should do and each team member pick on of the task.
 
 **Task:**
 Ran: Find hyperledger fabric data structure and profile.
