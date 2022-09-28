@@ -12,7 +12,7 @@ Yuxiao Liu - u7371990 (Spokesperson)
 
 Ran Zhang  - u6760490
 
-Yuzhen Qi - u7394366
+Yuzhen Qin - u7394366
 
 ### Clients
 [diversityarrays.com](https://www.diversityarrays.com/)
