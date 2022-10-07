@@ -33,13 +33,13 @@ Communication via Slack
    * Several different framework investigation -- **wk5**
    * Detailed analysis for blockchain frameworks and user case
 
-[Statement of Work(Draft only)](https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/336deddfee922f43e4627564159797c8a2b237e3/document/SOW(draft).md)
+[Statement of Work(Not signed)](https://docs.google.com/document/d/1aTyoWu6TuY1F7QjpBGYnCRY1Rkz7P1JU/edit?usp=sharing&ouid=114992695747060651714&rtpof=true&sd=true)
 
 [Client Analysis](https://github.com/davecatmeow/EcologicalSoundLandingPage/blob/4c5886dbc26ce1c2b84bf052060e6bd0a347f11d/document)
 
 [Technical constraints analysis](https://docs.google.com/document/d/1cjPraiJJvQ0aMBjqgqUewUL9JAs0VtM5/edit?usp=sharing&ouid=114992695747060651714&rtpof=true&sd=true)
 
-[Blockchain Project](https://github.com/miaopasei/Echological-Fabric)
+[Blockchain Project(The working code directory)](https://github.com/miaopasei/Echological-Fabric)
 
 ### Audit
 Audit 1 [Slides](https://docs.google.com/presentation/d/1Z_ekkf_tDXNAgifQuVTSU8A2ZC3ikq0M/edit?usp=sharing&ouid=114992695747060651714&rtpof=true&sd=true)
