@@ -96,5 +96,35 @@ can you elaborate your concern a bit more ? From our meeting the other day, an a
 Yuxiao: Yep, we have provided a specification on the machine to Lei. For our concerning is just because we have to finish a showcase video and preparing for audit3. I thought we need to have enough time to working on a develop version system.  
 
 
+## Team Meeting 9 - Week 8 10.2 On Tencent Meeting
+**Record for the communication:**   
+1. Determine the division of labour for each individual. 
+2. Have a discussion about smart contract attribute. 
+
+**Assignment:**   
+Yuxiao: Development environment build.
+Gefei: Smart contract organized.
+Ran: Smart contract developed through golang.
+Yuzhen: Follow the SoW.
 
 
+## Team Meeting 9 - Week 9 10.4 On Tencent Meeting
+**Record for the communication:**   
+1. Job progress update after finishing the environment build.
+2. Finally determine the whole contents for smart contract demo. 
+3. Negotiate Amazon Cloud configuration and submit to client.
+4. Start the plan for showcase video.
+
+
+**Result of meeting:**   
+Continuing working on smart contract development. 
+
+## Team Meeting 10 - Week 9 10.6 On Tencent Meeting
+**Record for the communication:**   
+The whole meeting is about finishing the detail of showcase video.
+
+## Team Meeting 11 - Week 10 10.13 On Tencent Meeting
+**Record for the communication:**   
+Before Audit3 Team Meeting  
+1. Assign each part for team members.  
+2. Working together to achieve all of the content in Audit3.
