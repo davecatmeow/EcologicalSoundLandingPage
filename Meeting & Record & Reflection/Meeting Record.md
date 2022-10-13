@@ -108,7 +108,7 @@ Ran: Smart contract developed through golang.
 Yuzhen: Follow the SoW.
 
 
-## Team Meeting 9 - Week 9 10.4 On Tencent Meeting
+## Team Meeting 10 - Week 9 10.4 On Tencent Meeting
 **Record for the communication:**   
 1. Job progress update after finishing the environment build.
 2. Finally determine the whole contents for smart contract demo. 
@@ -119,11 +119,11 @@ Yuzhen: Follow the SoW.
 **Result of meeting:**   
 Continuing working on smart contract development. 
 
-## Team Meeting 10 - Week 9 10.6 On Tencent Meeting
+## Team Meeting 11 - Week 9 10.6 On Tencent Meeting
 **Record for the communication:**   
 The whole meeting is about finishing the detail of showcase video.
 
-## Team Meeting 11 - Week 10 10.13 On Tencent Meeting
+## Team Meeting 12 - Week 10 10.13 On Tencent Meeting
 **Record for the communication:**   
 Before Audit3 Team Meeting  
 1. Assign each part for team members.  
