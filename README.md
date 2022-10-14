@@ -31,7 +31,10 @@ Communication via Slack
  * The [research output](https://drive.google.com/drive/folders/1eaEpeix8BDlUzcZwEiqWry5Y8PTL3ziF?usp=sharing) of every week
    * Block chain, bioinformatics background and jargon explanation -- **wk4**
    * Several different framework investigation -- **wk5**
-   * Detailed analysis for blockchain frameworks and user case
+   * The reason of choosing Hyperledger Fabric as our developing framework -- **wk6**
+   * Detailed analysis for blockchain frameworks and user case -- **wk7**
+   * The architecture and flowchart design -- **wk8&9** 
+   * Handover plan -- **wk10**
 
 [Statement of Work(Not signed)](https://docs.google.com/document/d/1aTyoWu6TuY1F7QjpBGYnCRY1Rkz7P1JU/edit?usp=sharing&ouid=114992695747060651714&rtpof=true&sd=true)
 
@@ -39,12 +42,16 @@ Communication via Slack
 
 [Technical constraints analysis](https://docs.google.com/document/d/1cjPraiJJvQ0aMBjqgqUewUL9JAs0VtM5/edit?usp=sharing&ouid=114992695747060651714&rtpof=true&sd=true)
 
-[Blockchain Project(The working code directory)](https://github.com/miaopasei/Echological-Fabric)
+[Blockchain Project(The working code directory)](https://github.com/miaopasei/Echological-Fabric),including:
+ * The setup  instructions for developing environment
+
 ***
 ### Audit
 Audit 1 [Slides](https://docs.google.com/presentation/d/1Z_ekkf_tDXNAgifQuVTSU8A2ZC3ikq0M/edit?usp=sharing&ouid=114992695747060651714&rtpof=true&sd=true)
 
 Audit 2 [Slides](https://docs.google.com/presentation/d/1uhxRaC8fLimlDYW7-8MKwJJ5kzM4a5Xg/edit?usp=sharing&ouid=114992695747060651714&rtpof=true&sd=true)
+
+Audit 2 [Slides](https://docs.google.com/presentation/d/1nWl9vXVNZQQJdSEoDvuhh7hWmp3tq-ul/edit?usp=sharing&ouid=114992695747060651714&rtpof=true&sd=true)
 ***
 
 ### Client meeting record
