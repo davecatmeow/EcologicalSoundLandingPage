@@ -41,10 +41,10 @@ Communication via Slack
 [Technical constraints analysis](https://docs.google.com/document/d/1cjPraiJJvQ0aMBjqgqUewUL9JAs0VtM5/edit?usp=sharing&ouid=114992695747060651714&rtpof=true&sd=true)
 
 [Blockchain Project(The working code directory)](https://github.com/miaopasei/Echological-Fabric),including:
- * The setup [instructions](https://github.com/miaopasei/Echological-Fabric/blob/main/README.md) for developing environment
- * The [script](https://github.com/miaopasei/Echological-Fabric/blob/main/bootstrap.sh) for setup
- * The verification [test-demo](https://github.com/miaopasei/Echological-Fabric/tree/main/test-network) for network communication test
- * The [Smart Contract demo](https://github.com/miaopasei/Echological-Fabric/tree/main/echological-chaincode)
+ * The setup [instructions](https://github.com/miaopasei/Echological-Fabric/blob/main/README.md) for developing environment -- **wk7**
+ * The [script](https://github.com/miaopasei/Echological-Fabric/blob/main/bootstrap.sh) for setup **wk8**
+ * The verification [test-demo](https://github.com/miaopasei/Echological-Fabric/tree/main/test-network) for network communication test -- **wk8&9**
+ * The [Smart Contract demo](https://github.com/miaopasei/Echological-Fabric/tree/main/echological-chaincode) -- **wk10**
 
 ***
 ### Audit
