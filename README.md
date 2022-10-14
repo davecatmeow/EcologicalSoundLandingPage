@@ -24,8 +24,6 @@ Yuzhen Qin - u7394366
 
 Communication via Slack
 
-[SmartSheet workplace](https://app.smartsheet.com/sheets/FqcXxcrwChx25xmwQ6rcxMF3r5342XJ7r9J43931) 
-
 [Google Drive](https://drive.google.com/drive/folders/1bnulCYp5-RvlmENptO9lv3Vpkp9U3x9T?usp=sharing)
 
  * The [research output](https://drive.google.com/drive/folders/1eaEpeix8BDlUzcZwEiqWry5Y8PTL3ziF?usp=sharing) of every week
