@@ -12,3 +12,22 @@ The core concept is to show that **why** we have done these work,**where** to fi
   - [ ] ...
 
 ## Document List
+
+### Research result
+
+All the resources list below is available now, but need migration or adding guidelines.
+
+ * Blockchain and web 3.0 background research, features of blockchain
+ * Key concept & jargon explanation 
+ * User Case Analysis
+ * Several framework's basic analysis
+ * **Scoring Table for potential Frameworks**
+ * **The design of the smart contract**
+
+### Instructions and support document
+
+Some of the points might have been completed, but most need addition work
+
+ * Environment setup instructions
+ * **A detailed doc for smart contract attributes and function interface**
+ * Instructions for running the demo
