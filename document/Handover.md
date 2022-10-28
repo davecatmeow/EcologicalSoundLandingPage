@@ -10,7 +10,19 @@ Blockchain, is a chain of block after block. Each block holds a certain amount o
 ### Project Introduction
 Due to blockchain's high transparency, security and other advantages, farm-related information can be stored in this ledger and managed through Smart Contract. So blockchain is the key to this project. Blockchain can be used to track what crops are grown and to monitor subsequent flows. The aim is to improve the distribution of food in the system. And we will be able to track and monitor transactions between all stakeholders in agroecosystems based on agricultural genetic databases. Using this technology, customers can buy produce from less trusted sellers.
 .
+## What we have done
+*tips: all the corresponding documentations are listed in the **Document List** section.*
 
+
+### Research
+Due to the complexity of the background, we 
+* investigated the existing blockchain solutions and their properties
+* combined with the special needs of user cases
+* scored the existing mainstream frameworks 
+* made a choice of hyperledger Frabic
+
+### Prototype verification and demo
+We build a runnable demo to verify the feasibility of our upfront design and research. Instructions could be found both in [README.md] and in (here)[https://github.com/miaopasei/Echological-Fabric]. There are also instructions in the **Document List**
 
 
 ## Document List
