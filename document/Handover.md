@@ -22,7 +22,7 @@ Due to the complexity of the background, we
 * made a choice of hyperledger Frabic
 
 ### Prototype verification and demo
-We build a runnable demo to verify the feasibility of our upfront design and research. Instructions could be found both in [README.md](README.md) and in [here](https://github.com/miaopasei/Echological-Fabric). There are also instructions in the **Document List**
+We build a runnable demo to verify the feasibility of our upfront design and research. Instructions could be found both in [README.md](../README.md) and in [here](https://github.com/miaopasei/Echological-Fabric). There are also instructions in the **Document List**
 
 
 ## Document List
@@ -31,9 +31,9 @@ We build a runnable demo to verify the feasibility of our upfront design and res
 
  * Blockchain and web 3.0 background research, features of blockchain [here](https://drive.google.com/drive/folders/1YRU4e9wxteqresc-8SsQJsLGbED3jUC4?usp=sharing)
  * Key concept & jargon explanation [here](https://drive.google.com/file/d/12j2g2QvZbf0IG7Yi3cElLsT73gm3fM2v/view?usp=sharing)
- * User Case Analysis [here](document/Use Case.md)
+ * User Case Analysis [here](Use Case.md)
  * Several framework's basic analysis
- * **Scoring Table for potential Frameworks** [here](document/Marking Table.md)
+ * **Scoring Table for potential Frameworks** [here](Marking Table.md)
  * **The design of the smart contract** [here](https://drive.google.com/drive/folders/1xrtKy2vr3tDIEFu_wnWS--A-lX8aphG6?usp=sharing)
 
 ### Instructions and support document
