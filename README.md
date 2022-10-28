@@ -3,6 +3,8 @@ COMP8715 “22-S2-2-C Ecological Sound” Landing Page
 
 This page is the static copy of [github repo](https://github.com/davecatmeow/EcologicalSoundLandingPage), the internal link in this repo might not work. In that case, please directly visit our repo.
 
+The handover document is [here](document/Handover.md)
+
 ## DArT Blockchain
 
 ### Team members
