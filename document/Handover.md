@@ -31,9 +31,9 @@ We build a runnable demo to verify the feasibility of our upfront design and res
 
  * Blockchain and web 3.0 background research, features of blockchain [here](https://drive.google.com/drive/folders/1YRU4e9wxteqresc-8SsQJsLGbED3jUC4?usp=sharing)
  * Key concept & jargon explanation [here](https://drive.google.com/file/d/12j2g2QvZbf0IG7Yi3cElLsT73gm3fM2v/view?usp=sharing)
- * User Case Analysis [Use Case.md](Document/Use Case.md)
+ * User Case Analysis [Use Case.md](document/Use Case.md)
  * Several framework's basic analysis
- * **Scoring Table for potential Frameworks** [Marking Table.md](Document/Marking Table.md)
+ * **Scoring Table for potential Frameworks** [Marking Table.md](document/Marking Table.md)
  * **The design of the smart contract** [here](https://drive.google.com/drive/folders/1xrtKy2vr3tDIEFu_wnWS--A-lX8aphG6?usp=sharing)
 
 ### Instructions and support document
