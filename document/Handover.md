@@ -22,7 +22,7 @@ Due to the complexity of the background, we
 * made a choice of hyperledger Frabic
 
 ### Prototype verification and demo
-We build a runnable demo to verify the feasibility of our upfront design and research. Instructions could be found both in [README.md] and in (here)[https://github.com/miaopasei/Echological-Fabric]. There are also instructions in the **Document List**
+We build a runnable demo to verify the feasibility of our upfront design and research. Instructions could be found both in [README.md](README.md) and in [here](https://github.com/miaopasei/Echological-Fabric). There are also instructions in the **Document List**
 
 
 ## Document List
